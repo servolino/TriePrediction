@@ -1,3 +1,5 @@
+// Author: Dr. Sean Szumlanski
+
 #ifndef __TRIE_PREDICTION_H
 #define __TRIE_PREDICTION_H
 
