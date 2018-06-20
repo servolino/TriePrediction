@@ -1,5 +1,5 @@
-// Sam Ervolino
-// sa381542
+// Author: Sam Ervolino
+// Credit to Dr. Szumlanski for printTrieHelper and printTrie functions
 
 #include <ctype.h>
 #include <stdio.h>
@@ -8,7 +8,6 @@
 #include "TriePrediction.h"
 
 // Functional prototypes of non required functions (not in header file).
-// Credit to Dr. Szumlanski for printTrieHelper and printTrie functions
 TrieNode *createTrieNode(void);
 
 void getMostFrequentWordHelper(TrieNode *root, char *buffer, char *mostFreq, int *frequency, int n);
