@@ -573,13 +573,3 @@ void textPrediction(TrieNode *root, char w0[1026], int n)
 		memset(w1, 0, sizeof(w1));
 	}
 }
-
-double difficultyRating(void)
-{
-	return 4.0;
-}
-
-double hoursSpent(void)
-{
-	return 45.5;
-}
